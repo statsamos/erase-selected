@@ -1,0 +1,4 @@
+C:\Users\Matt\AppData\Local\AmosDevelopment\Amos\26\Plugins\Amos26-EraseSelected.dll
+C:\Users\Matt\AppData\Local\AmosDevelopment\Amos\26\Plugins\Amos26-EraseSelected.pdb
+\\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos26-EraseSelected\Amos26-EraseSelected\obj\Debug\Amos26-EraseSelected.dll
+\\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos26-EraseSelected\Amos26-EraseSelected\obj\Debug\Amos26-EraseSelected.pdb
