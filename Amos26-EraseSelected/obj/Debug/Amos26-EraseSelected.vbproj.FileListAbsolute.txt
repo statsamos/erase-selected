@@ -2,3 +2,9 @@ C:\Users\Matt\AppData\Local\AmosDevelopment\Amos\26\Plugins\Amos26-EraseSelected
 C:\Users\Matt\AppData\Local\AmosDevelopment\Amos\26\Plugins\Amos26-EraseSelected.pdb
 \\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos26-EraseSelected\Amos26-EraseSelected\obj\Debug\Amos26-EraseSelected.dll
 \\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos26-EraseSelected\Amos26-EraseSelected\obj\Debug\Amos26-EraseSelected.pdb
+C:\Users\squar\AppData\Local\AmosDevelopment\Amos\28\Plugins\Amos26-EraseSelected.dll
+C:\Users\squar\AppData\Local\AmosDevelopment\Amos\28\Plugins\Amos26-EraseSelected.pdb
+C:\Users\squar\source\statsamos\EraseSelected\Amos26-EraseSelected\obj\Debug\Amos26-EraseSelected.vbproj.AssemblyReference.cache
+C:\Users\squar\source\statsamos\EraseSelected\Amos26-EraseSelected\obj\Debug\Amos26-EraseSelected.vbproj.CoreCompileInputs.cache
+C:\Users\squar\source\statsamos\EraseSelected\Amos26-EraseSelected\obj\Debug\Amos26-EraseSelected.dll
+C:\Users\squar\source\statsamos\EraseSelected\Amos26-EraseSelected\obj\Debug\Amos26-EraseSelected.pdb

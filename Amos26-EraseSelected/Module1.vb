@@ -10,6 +10,7 @@ Imports MiscAmosTypes.cDatabaseFormat
 Public Class CustomCode
     Implements IPlugin
 
+    'This plugin was updated 2022 by Joseph Steed
     Public Function Name() As String Implements IPlugin.Name
         Return "Erase Selected"
     End Function
